@@ -1,0 +1,18 @@
+PODS:
+  - Fusuma (1.0.0)
+  - ImagePicker (2.0.0)
+  - Kingfisher (3.2.2)
+
+DEPENDENCIES:
+  - Fusuma
+  - ImagePicker
+  - Kingfisher (~> 3.0)
+
+SPEC CHECKSUMS:
+  Fusuma: c95c1c999c765f5dc907670be569157372ff33c4
+  ImagePicker: 81175d36c2852cb543cb4f5d6c19e28f3e8d90eb
+  Kingfisher: 821466474ad7ffc375a4aecadfa05068cfed67b3
+
+PODFILE CHECKSUM: cf5ed61fde592d86a1fc9e0a75e498a7a35cf6f0
+
+COCOAPODS: 1.2.0.beta.1
